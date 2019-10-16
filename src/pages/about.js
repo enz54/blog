@@ -3,10 +3,11 @@ import { Link } from "gatsby"
 
 export default () => (
   <div>
-    <h1>this is the index page</h1>
+    <h1>this is the about page</h1>
     <div>
       <Link to="/">Home </Link> | <Link to="/about">About me </Link>
     </div>
+
     <p>
       Lorem Ipsum is simply dummy text of the printing and typesetting industry.
       Lorem Ipsum has been the industry's standard dummy text ever since the
